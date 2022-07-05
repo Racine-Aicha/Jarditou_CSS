@@ -1,0 +1,79 @@
+body {
+    padding-left: 20%;
+    padding-right: 20%;
+
+}
+
+ul { 
+    display: flex;
+    list-style-type: none;
+}
+
+li {
+    margin-left: 10px;
+
+}
+
+a {
+    color: white;
+}
+
+nav {
+    background-color: black;
+    padding-top: 7px;
+    padding-bottom: 7px;
+
+}
+ 
+.promo {
+    width: 100%;
+    margin-top: 5px;
+}
+
+.body {
+    display: flex;
+
+    margin-top: 5px;
+
+}
+.article {
+    width: 70%;
+}
+
+
+.colonne {
+    background-color: #928f8f;
+    width: 30%;
+    right: 100%;
+}
+
+.tableau-style {
+    border-collapse: collapse;
+    min-width: 500px;
+    width: 100%;
+    box-shadow: 0 5px 50px rgba(0, 0, 0, 0.15);
+}
+
+td {
+    text-align: center;
+}
+input {
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+
+.bouton {
+    margin-top: 8px;
+}
+
+#sujet {
+    margin-bottom: 15px;
+}
+
+
+
+
+
+
+
+
